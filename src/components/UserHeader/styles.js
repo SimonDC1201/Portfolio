@@ -20,6 +20,7 @@ export const Header = styled.div`
 
 export const Image = styled.img`
   width: 200px;
+  height: 212px;
   margin-right: 1rem;
   border-radius: 2px;
 `;
